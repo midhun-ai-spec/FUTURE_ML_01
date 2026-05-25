@@ -8,7 +8,8 @@ Built a machine learning model to forecast future sales using historical busines
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Google Colab
+- Jupiter Notebook
+- VS Code
 
 ## Features
 - Data cleaning
@@ -18,4 +19,4 @@ Built a machine learning model to forecast future sales using historical busines
 - Error evaluation
 
 ## Outcome
-Successfully predicted future sales trends and visualized forecast results.
+Predicted future sales trends using regression techniques and visualized forecast outputs.
